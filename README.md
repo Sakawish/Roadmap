@@ -12,7 +12,7 @@
 | **椒盐笔记** | 🕒 Play 商店上架 <br> 🕒 编辑栏重置 | ⏩ SaltUI 适配 |  |
 | **Hearusy Spectrum** | 🕒 Play 商店上架 |  |  |
 
-## 暂停维护
+## 停止维护
 
 **Moriafly Audio Hub** 2024 年 2 月 20 日宣布停止更新维护
 
